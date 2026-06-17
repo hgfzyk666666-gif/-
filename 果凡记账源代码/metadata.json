@@ -1,0 +1,6 @@
+{
+  "name": "果凡记账",
+  "description": "基于 Gemini 的智能记账应用，支持语音或文本对话记录收支、设定预算与收支分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
