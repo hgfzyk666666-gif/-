@@ -8,7 +8,7 @@
 
 ## 🚀 下载与安装
 
-👉 [点击这里直接下载最新版 APK 安装包](sha256:b5a3cf28d328de8aed7cbed9a33a79c7fe2ae039d5e8e21f3923e67d2e73b34e)
+👉 [点击这里直接下载最新版 APK 安装包](https://github.com/hgfzyk666666-gif/-/releases)
 
 *注：如果手机下载后文件名后缀带有 `.1`（如 `base.apk.1`），请在手机文件管理器中将其重命名，删掉最后的 `.1`，改成 `.apk` 结尾即可正常安装。*
 
